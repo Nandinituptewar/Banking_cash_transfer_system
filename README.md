@@ -6,3 +6,5 @@ For transaction use  this path-
 customer-> view details -> transfer money -> select option from the dropdown to whom you want to snd the amount -> Enter the Amont-> S"ubmit.
 "Money transferred successfully" will render.
 Tranfer record will be saved and you can view this by on click transfer record option.
+It is hosted on 000webhostapp.
+Link: https://moneytransferapplication.000webhostapp.com/index.html
